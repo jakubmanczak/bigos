@@ -1,0 +1,6 @@
+bigos
+
+
+* run ./compile.sh to compile to x86 assembly with nasm
+
+* run ./boot.sh to boot bigos in qemu
